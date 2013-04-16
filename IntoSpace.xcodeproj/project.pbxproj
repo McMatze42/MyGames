@@ -18,6 +18,20 @@
 		42848E71171D537F00921D35 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E70171D537F00921D35 /* Default-568h@2x.png */; };
 		42848E74171D537F00921D35 /* isViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42848E73171D537F00921D35 /* isViewController.m */; };
 		42848E77171D537F00921D35 /* isViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 42848E75171D537F00921D35 /* isViewController.xib */; };
+		42848E86171D550B00921D35 /* Skelligs.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E7E171D550B00921D35 /* Skelligs.png */; };
+		42848E87171D550B00921D35 /* Spacebackground_768.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E7F171D550B00921D35 /* Spacebackground_768.png */; };
+		42848E88171D550B00921D35 /* Spacebackground_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E80171D550B00921D35 /* Spacebackground_1024.png */; };
+		42848E89171D550B00921D35 /* Spacebackground_1536.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E81171D550B00921D35 /* Spacebackground_1536.png */; };
+		42848E8A171D550B00921D35 /* Spacebackground_2048.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E82171D550B00921D35 /* Spacebackground_2048.png */; };
+		42848E8B171D550B00921D35 /* Spacebackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E83171D550B00921D35 /* Spacebackground.png */; };
+		42848E8C171D550B00921D35 /* Spaceship_icon_72.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E84171D550B00921D35 /* Spaceship_icon_72.png */; };
+		42848E8D171D550B00921D35 /* Spaceship_icon_144.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E85171D550B00921D35 /* Spaceship_icon_144.png */; };
+		42848E8F171D551500921D35 /* Spaceship_icon_72.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E8E171D551500921D35 /* Spaceship_icon_72.png */; };
+		42848E91171D551A00921D35 /* Spaceship_icon_144.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E90171D551A00921D35 /* Spaceship_icon_144.png */; };
+		42848E93171D552900921D35 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E92171D552900921D35 /* Default-Portrait~ipad.png */; };
+		42848E95171D553200921D35 /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E94171D553200921D35 /* Default-Portrait@2x~ipad.png */; };
+		42848E97171D553C00921D35 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E96171D553C00921D35 /* Default-Landscape~ipad.png */; };
+		42848E99171D554400921D35 /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 42848E98171D554400921D35 /* Default-Landscape@2x~ipad.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +51,20 @@
 		42848E72171D537F00921D35 /* isViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = isViewController.h; sourceTree = "<group>"; };
 		42848E73171D537F00921D35 /* isViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = isViewController.m; sourceTree = "<group>"; };
 		42848E76171D537F00921D35 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/isViewController.xib; sourceTree = "<group>"; };
+		42848E7E171D550B00921D35 /* Skelligs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Skelligs.png; path = Pics/Skelligs.png; sourceTree = "<group>"; };
+		42848E7F171D550B00921D35 /* Spacebackground_768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spacebackground_768.png; path = Pics/Spacebackground_768.png; sourceTree = "<group>"; };
+		42848E80171D550B00921D35 /* Spacebackground_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spacebackground_1024.png; path = Pics/Spacebackground_1024.png; sourceTree = "<group>"; };
+		42848E81171D550B00921D35 /* Spacebackground_1536.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spacebackground_1536.png; path = Pics/Spacebackground_1536.png; sourceTree = "<group>"; };
+		42848E82171D550B00921D35 /* Spacebackground_2048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spacebackground_2048.png; path = Pics/Spacebackground_2048.png; sourceTree = "<group>"; };
+		42848E83171D550B00921D35 /* Spacebackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spacebackground.png; path = Pics/Spacebackground.png; sourceTree = "<group>"; };
+		42848E84171D550B00921D35 /* Spaceship_icon_72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spaceship_icon_72.png; path = Pics/Spaceship_icon_72.png; sourceTree = "<group>"; };
+		42848E85171D550B00921D35 /* Spaceship_icon_144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Spaceship_icon_144.png; path = Pics/Spaceship_icon_144.png; sourceTree = "<group>"; };
+		42848E8E171D551500921D35 /* Spaceship_icon_72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship_icon_72.png; sourceTree = "<group>"; };
+		42848E90171D551A00921D35 /* Spaceship_icon_144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship_icon_144.png; sourceTree = "<group>"; };
+		42848E92171D552900921D35 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		42848E94171D553200921D35 /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		42848E96171D553C00921D35 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		42848E98171D554400921D35 /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +84,12 @@
 		42848E4E171D537F00921D35 = {
 			isa = PBXGroup;
 			children = (
+				42848E98171D554400921D35 /* Default-Landscape@2x~ipad.png */,
+				42848E96171D553C00921D35 /* Default-Landscape~ipad.png */,
+				42848E94171D553200921D35 /* Default-Portrait@2x~ipad.png */,
+				42848E92171D552900921D35 /* Default-Portrait~ipad.png */,
+				42848E90171D551A00921D35 /* Spaceship_icon_144.png */,
+				42848E8E171D551500921D35 /* Spaceship_icon_72.png */,
 				42848E60171D537F00921D35 /* IntoSpace */,
 				42848E59171D537F00921D35 /* Frameworks */,
 				42848E58171D537F00921D35 /* Products */,
@@ -83,6 +117,7 @@
 		42848E60171D537F00921D35 /* IntoSpace */ = {
 			isa = PBXGroup;
 			children = (
+				42848E7D171D53A700921D35 /* Pics */,
 				42848E69171D537F00921D35 /* isAppDelegate.h */,
 				42848E6A171D537F00921D35 /* isAppDelegate.m */,
 				42848E72171D537F00921D35 /* isViewController.h */,
@@ -105,6 +140,21 @@
 				42848E70171D537F00921D35 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		42848E7D171D53A700921D35 /* Pics */ = {
+			isa = PBXGroup;
+			children = (
+				42848E7E171D550B00921D35 /* Skelligs.png */,
+				42848E7F171D550B00921D35 /* Spacebackground_768.png */,
+				42848E80171D550B00921D35 /* Spacebackground_1024.png */,
+				42848E81171D550B00921D35 /* Spacebackground_1536.png */,
+				42848E82171D550B00921D35 /* Spacebackground_2048.png */,
+				42848E83171D550B00921D35 /* Spacebackground.png */,
+				42848E84171D550B00921D35 /* Spaceship_icon_72.png */,
+				42848E85171D550B00921D35 /* Spaceship_icon_144.png */,
+			);
+			name = Pics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +214,20 @@
 				42848E6F171D537F00921D35 /* Default@2x.png in Resources */,
 				42848E71171D537F00921D35 /* Default-568h@2x.png in Resources */,
 				42848E77171D537F00921D35 /* isViewController.xib in Resources */,
+				42848E86171D550B00921D35 /* Skelligs.png in Resources */,
+				42848E87171D550B00921D35 /* Spacebackground_768.png in Resources */,
+				42848E88171D550B00921D35 /* Spacebackground_1024.png in Resources */,
+				42848E89171D550B00921D35 /* Spacebackground_1536.png in Resources */,
+				42848E8A171D550B00921D35 /* Spacebackground_2048.png in Resources */,
+				42848E8B171D550B00921D35 /* Spacebackground.png in Resources */,
+				42848E8C171D550B00921D35 /* Spaceship_icon_72.png in Resources */,
+				42848E8D171D550B00921D35 /* Spaceship_icon_144.png in Resources */,
+				42848E8F171D551500921D35 /* Spaceship_icon_72.png in Resources */,
+				42848E91171D551A00921D35 /* Spaceship_icon_144.png in Resources */,
+				42848E93171D552900921D35 /* Default-Portrait~ipad.png in Resources */,
+				42848E95171D553200921D35 /* Default-Portrait@2x~ipad.png in Resources */,
+				42848E97171D553C00921D35 /* Default-Landscape~ipad.png in Resources */,
+				42848E99171D554400921D35 /* Default-Landscape@2x~ipad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +328,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "IntoSpace/IntoSpace-Prefix.pch";
 				INFOPLIST_FILE = "IntoSpace/IntoSpace-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -275,6 +340,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "IntoSpace/IntoSpace-Prefix.pch";
 				INFOPLIST_FILE = "IntoSpace/IntoSpace-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
