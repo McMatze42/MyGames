@@ -14,6 +14,22 @@
 
 @implementation isViewController
 
+- (BOOL) shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation
+{
+    if (toInterfaceOrientation == UIDeviceOrientationLandscapeRight)
+    {
+        return YES;
+    }
+    else if (toInterfaceOrientation == UIDeviceOrientationLandscapeLeft)
+    {
+        return YES;
+    }
+    else
+    {
+        return NO;
+    }
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
